@@ -1,0 +1,6 @@
+genericUtility\BaseClass.class
+pom\GoogleSearhPage.class
+pom\ToGenerateStaleElementRefException.class
+genericUtility\FileUtility.class
+pom\LoginPage.class
+pom\RegisterPage.class

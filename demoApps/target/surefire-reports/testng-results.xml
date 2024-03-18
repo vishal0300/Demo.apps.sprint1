@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-15T05:18:49Z" name="Surefire suite" finished-at="2024-03-15T05:19:16Z" duration-ms="27015">
+    <groups>
+    </groups>
+    <test started-at="2024-03-15T05:18:49Z" name="Surefire test" finished-at="2024-03-15T05:19:16Z" duration-ms="27015">
+      <class name="testNG.Test1">
+        <test-method signature="demoTest()[pri:0, instance:testNG.Test1@7586beff]" started-at="2024-03-15T05:19:01Z" name="demoTest" finished-at="2024-03-15T05:19:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTest -->
+        <test-method signature="jspiders()[pri:0, instance:testNG.Test1@7586beff]" started-at="2024-03-15T05:19:01Z" name="jspiders" finished-at="2024-03-15T05:19:01Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jspiders -->
+        <test-method signature="pyspiders()[pri:0, instance:testNG.Test1@7586beff]" started-at="2024-03-15T05:19:01Z" name="pyspiders" finished-at="2024-03-15T05:19:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pyspiders -->
+        <test-method signature="qspiders()[pri:0, instance:testNG.Test1@7586beff]" started-at="2024-03-15T05:19:01Z" name="qspiders" finished-at="2024-03-15T05:19:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qspiders -->
+      </class> <!-- testNG.Test1 -->
+      <class name="testNG.GoogleTest">
+        <test-method signature="googleTest()[pri:0, instance:testNG.GoogleTest@4c12331b]" started-at="2024-03-15T05:18:54Z" name="googleTest" finished-at="2024-03-15T05:19:01Z" duration-ms="6984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+      </class> <!-- testNG.GoogleTest -->
+      <class name="webElements.ToRegisterUserAndLoginUserTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:18:49Z" name="bs" finished-at="2024-03-15T05:18:49Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:18:49Z" name="bt" finished-at="2024-03-15T05:18:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:01Z" name="bc" finished-at="2024-03-15T05:19:09Z" duration-ms="7982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:09Z" name="bm" finished-at="2024-03-15T05:19:09Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="toRegisterUserAndVerify()[pri:1, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:09Z" name="toRegisterUserAndVerify" finished-at="2024-03-15T05:19:14Z" duration-ms="4433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toRegisterUserAndVerify -->
+        <test-method is-config="true" signature="am()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:14Z" name="am" finished-at="2024-03-15T05:19:14Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:14Z" name="bm" finished-at="2024-03-15T05:19:14Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="toLoginUserAndVerify()[pri:2, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:14Z" name="toLoginUserAndVerify" finished-at="2024-03-15T05:19:15Z" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toLoginUserAndVerify -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:15Z" name="ac" finished-at="2024-03-15T05:19:16Z" duration-ms="1440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="am()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:15Z" name="am" finished-at="2024-03-15T05:19:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="at()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:16Z" name="at" finished-at="2024-03-15T05:19:16Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@5b12b668]" started-at="2024-03-15T05:19:16Z" name="as" finished-at="2024-03-15T05:19:16Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- webElements.ToRegisterUserAndLoginUserTest -->
+      <class name="testNG.FacebookTest">
+        <test-method signature="googleTest()[pri:0, instance:testNG.FacebookTest@1165b38]" started-at="2024-03-15T05:18:49Z" name="googleTest" finished-at="2024-03-15T05:18:54Z" duration-ms="5152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+      </class> <!-- testNG.FacebookTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+dataDrivenTesting\FetchDataFromPropertyFile.class
+testNG\DemoClass.class
+dataDrivenTesting\FetchDataFromExcelSheet.class
+testNG\DemoClass2.class
+testNG\Test1.class
+testNG\FacebookTest.class
+testNG\Priority.class
+testNG\Group.class
+testNG\Disable.class
+testNG\Dependency.class
+testNG\GoogleTest.class
+testNG\MultipleData.class
+webElements\ToRegisterUserAndLoginUserTest.class
+testNG\MultilpeBrowsers.class
+testNG\RunMutipleTimes.class
